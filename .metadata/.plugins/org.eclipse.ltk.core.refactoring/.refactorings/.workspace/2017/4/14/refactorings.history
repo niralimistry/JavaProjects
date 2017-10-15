@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;StockWorld/src/main/java/com.nirali.ice&apos;" deleteContents="false" description="Delete resource &apos;StockWorld/src/main/java/com.nirali.ice&apos;" element1="/StockWorld/src/main/java/com.nirali.ice" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1491690780905"/>
+</session>

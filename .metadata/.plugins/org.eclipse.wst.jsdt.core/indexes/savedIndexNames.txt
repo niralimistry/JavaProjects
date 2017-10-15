@@ -1,0 +1,10 @@
+INDEX VERSION 1.4+D:\eclipse\workspace\interviews-ice\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2000276677.index
+3602865875.index
+2232705522.index
+3460108586.index
+3807897169.index
+1157159030.index
+3870047364.index
+868270916.index
+175997745.index

@@ -1,0 +1,5 @@
+1491690318878	Encapsulate field 'name'
+1491690328068	Encapsulate field 'symbol'
+1491690346470	Encapsulate field 'lastTradedPrice'
+1491690357727	Encapsulate field 'numberOfStocks'
+1491692656672	Encapsulate field 'sessionFactory'
